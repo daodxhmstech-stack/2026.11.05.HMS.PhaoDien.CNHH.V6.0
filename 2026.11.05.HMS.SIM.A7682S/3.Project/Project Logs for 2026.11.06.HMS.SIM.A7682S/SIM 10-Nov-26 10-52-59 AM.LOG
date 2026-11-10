@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=P1-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P1-2
+Removed Pin From Net: NetName=NetP1_3 Pin=P1-3
+Removed Pin From Net: NetName=NetMD1_42 Pin=P1-4
+Removed Pin From Net: NetName=NetMD1_7 Pin=P1-5
+Removed Pin From Net: NetName=NetP1_6 Pin=P1-6
+Removed Pin From Net: NetName=NetP1_7 Pin=P1-7
+Removed Pin From Net: NetName=NetP1_8 Pin=P1-8
+Removed Pin From Net: NetName=GND Pin=P1-9
+Removed Pin From Net: NetName=3.9V Pin=P1-10
+Removed Pin From Net: NetName=NetP1_6 Pin=R5-2
+Removed Pin From Net: NetName=NetP1_2 Pin=R8-2
+Removed Pin From Net: NetName=NetP1_1 Pin=R11-2
+Removed Pin From Net: NetName=NetP1_3 Pin=R14-2
+Removed Pin From Net: NetName=NetP1_7 Pin=T1-3
+Removed Pin From Net: NetName=NetP1_8 Pin=T2-2
+Added Component: Designator=P1(HX PZ1.27-2x5P ZZ)
+Add component (AddParameter): Name = "Category"; Value = "Card Edge Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/929974-01-10-RK-3M-datasheet-24569739.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/929974-01-10-RK-3M-datasheet-24569739.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/80000909525-3M-datasheet-5391050.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/80000909525-3M-datasheet-5391050.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/3M-company-24.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/3M-company-24.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Forked, Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Export Control Classification Number (ECCN) Code"; Value = "EAR99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8536.69.40.40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2007-03-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HX PZ1.27-2x5P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "HX PZ1.27-2x5P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2, 10=1.79, 50=1.79, 100=1.7, 1000=1.22, 10000=1.18 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unaffected"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1610"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "1.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HX PZ1.27-2x5P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.9V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_7 Pin=P1-4
+Added Pin To Net: NetName=NetP1_6 Pin=P1-5
+Added Pin To Net: NetName=NetMD1_7 Pin=P1-6
+Added Pin To Net: NetName=NetMD1_42 Pin=P1-7
+Added Pin To Net: NetName=NetP1_8 Pin=P1-8
+Added Pin To Net: NetName=NetP1_2 Pin=P1-9
+Added Pin To Net: NetName=NetP1_1 Pin=P1-10
+Added Pin To Net: NetName=NetP1_7 Pin=R5-2
+Added Pin To Net: NetName=NetP1_8 Pin=R8-2
+Added Pin To Net: NetName=NetP1_2 Pin=R11-2
+Added Pin To Net: NetName=NetP1_1 Pin=R14-2
+Added Pin To Net: NetName=NetP1_6 Pin=T1-3
+Added Pin To Net: NetName=NetP1_3 Pin=T2-2
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetP1_10
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP1_9
+Change Net Name : Old Net Name=NetP1_6 New Net Name=NetP1_5
+Change Net Name : Old Net Name=NetP1_7 New Net Name=NetP1_4

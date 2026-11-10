@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FMLUWDGX
 
 [Document7]
 DocumentPath=..\1.Schematic\HMS.STM32L151CBT6.SchDoc
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AJHPLPBV
 
 [Document8]
 DocumentPath=..\1.Schematic\HMS.VS1838B.SchDoc
@@ -222,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GVUFBOJS
 
 [ProjectVariant1]
 UniqueID=5249E00E-895C-4A3A-8608-05B40A30E01C

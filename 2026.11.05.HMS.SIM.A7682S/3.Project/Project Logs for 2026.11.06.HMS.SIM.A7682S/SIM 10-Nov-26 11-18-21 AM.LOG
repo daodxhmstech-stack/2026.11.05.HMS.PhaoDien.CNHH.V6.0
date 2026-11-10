@@ -1,0 +1,9 @@
+Added Component: Designator=P2(PAD_4MM)
+Added Component: Designator=P3(PAD_4MM)
+Added Component: Designator=P4(PAD_4MM)
+Added Component: Designator=P5(PAD_4MM)
+Added Member To Class: ClassName=SIM.A7682.CONECTER Member=Component P1 HX PZ1.27-2x5P ZZ
+Added Member To Class: ClassName=SIM.A7682S Member=Component P2 PAD_4MM
+Added Member To Class: ClassName=SIM.A7682S Member=Component P3 PAD_4MM
+Added Member To Class: ClassName=SIM.A7682S Member=Component P4 PAD_4MM
+Added Member To Class: ClassName=SIM.A7682S Member=Component P5 PAD_4MM
